@@ -11,5 +11,8 @@ public class Main {
         System.out.println("doyun is Best!");
 
         System.out.println("doyun0304");
+
+        Calculator c = new Calculator();
+        c.calc();
     }
 }
