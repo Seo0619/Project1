@@ -9,5 +9,9 @@ public class Main {
 
 
         System.out.println("doyoon is Best!");
+
+        System.out.println("HyeonHo is good");
+
+        System.out.println("HH is meongcheong");
     }
 }
