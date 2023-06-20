@@ -17,5 +17,8 @@ public class Main {
 
         Fibonacci f = new Fibonacci(1,1);
         f.printF(5);
+      
+        Calculator c = new Calculator();
+        c.calc();
     }
 }
