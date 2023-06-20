@@ -1,29 +1,33 @@
-### IntelliJ IDEA ###
+### Java template
+*.class
+ 
+# Package Files #
+*.jar
+*.war
+*.ear
+ 
+### macOS template
+*.DS_Store
+.AppleDouble
+.LSOverride
+ 
+# IntelliJ project files
+.idea
+.idea/*.xml
+*.idea
+*.iml
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
+gen
+build
+rebel.xml
+ 
+# Compliled files
+/target/
+**/target
+ 
+/example/
+ 
+# Gradle
+.gradle
+/build/
+.gradletasknamecache
