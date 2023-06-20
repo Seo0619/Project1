@@ -12,5 +12,8 @@ public class Main {
 
         System.out.println("doyun0304");
         System.out.println("HyeonHo is bad");
+      
+        Calculator c = new Calculator();
+        c.calc();
     }
 }
