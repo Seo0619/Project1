@@ -9,5 +9,8 @@ public class Main {
 
 
         System.out.println("doyoon is Best!");
+
+
+        System.out.println("HyeonHo is bad");
     }
 }
