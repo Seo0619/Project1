@@ -13,5 +13,9 @@ public class Main {
         System.out.println("HyeonHo is good");
 
         System.out.println("HH is meongcheong");
+
+
+        Fibonacci f = new Fibonacci(1,1);
+        f.printF(5);
     }
 }
