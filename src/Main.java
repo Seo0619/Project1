@@ -11,5 +11,6 @@ public class Main {
         System.out.println("doyun is Best!");
 
         System.out.println("doyun0304");
+        System.out.println("HyeonHo is bad");
     }
 }
