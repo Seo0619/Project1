@@ -8,10 +8,15 @@ public class Main {
         }
 
 
-        System.out.println("doyun is Best!");
+        System.out.println("doyoon is Best!");
 
-        System.out.println("doyun0304");
-        System.out.println("HyeonHo is bad");
+        System.out.println("HyeonHo is good");
+
+        System.out.println("HH is meongcheong");
+
+
+        Fibonacci f = new Fibonacci(1,1);
+        f.printF(5);
       
         Calculator c = new Calculator();
         c.calc();
